@@ -1,4 +1,4 @@
-# Mini-Projects
+# Mini-Projects 💾
 
 A collection of small web-based projects written primarily in HTML, CSS & JavaScript.
 
